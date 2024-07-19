@@ -1,0 +1,83 @@
+.card {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+    
+  }
+
+.card:hover {
+  backgroundColor: 'black'
+ 
+}
+.price h3 {
+    font-size: 24px;
+    color: #F66962;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+@media (max-width: 767.98px) {
+    
+}
+
+
+.price {
+    background: #fff;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    min-width: 149px;
+    padding: 14px 15px;
+    border-radius: 10px;
+}
+.content
+     {
+        position: relative;
+        color: white;
+}
+.price {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+
+figcaption{
+  background-color: white;
+  position: absolute;
+  bottom: 0.5rem;
+  
+  right: 1rem;
+  margin: 0 2rem;
+  color: black;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  font-size: 1.5;
+  min-width: 130px;
+   
+       
+}
+Container:hover{
+  color: #F66962;
+
+}
+.container1:hover{
+  background-color: blueviolet;
+font-family:    sans-serif;}
+
+.checked {
+  color: orange;
+}
+.all-btn {
+  margin-left: auto;
+}
+.align-items-center {
+  align-items: center !important;
+}
+.d-flex {
+  display: flex !important;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+user agent stylesheet
+div {
+  display: block;
+  unicode-bidi: isolate;
+}

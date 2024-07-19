@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+  padding-left: 0px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  padding-left: 30px;
+}
+
+@media (min-width: 1024px) and (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Navbars{
+padding-left: 100px;
+}
+.content{
+  
+  padding-top: 200px;
+  text-align: left;
+}
+.h1{
+  font-size: x-large;
+        margin-bottom: 10px;
+        
+        
+        
+        text-align: left;
+        padding-top: 30px;
+        word-spacing: 2px;
+        white-space-collapse: 2px;
+
+  
+}
+
+.para{
+  text-align: left;
+  font-size: 24px;
+  padding-top: 30px;
+}
+
+.girlImage{
+
+  text-align: right;
+  padding-right: 50px;
+  padding-left: 800px;
+}
+
+.buttons{
+  text-align: right;
+  
+}
+
+.para2{
+  text-align: left;
+  padding-left: 20px;
+  font-size: larger;
+  padding-bottom: 70px;
+}
+
+.stars{
+  padding-left: 200px;
+}
+
