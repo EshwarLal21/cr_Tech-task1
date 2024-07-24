@@ -12,6 +12,8 @@ import Footer from './Components/footer';
 import Topcatagory from './Components/TopCatatory';
 import Courses from './Components/course';
 import FeatureCourse from './Components/FeatureCourse';
+import Newcourse from './Components/whatsNew';
+import TreadingCourse from './Components/Treadingcourse';
 
 
 
@@ -113,6 +115,8 @@ function App() {
    <Topcatagory/>
    <Courses/>
    <FeatureCourse/>
+   <Newcourse/>
+   <TreadingCourse/>
    <Footer/>
 
 

@@ -6,6 +6,11 @@ import { faStar } from '@fortawesome/free-solid-svg-icons';
 function  FeatureCourse() {
   return (
     <>
+    <div class="container py-4">    <div className="row">
+<h3 className="mb-3 text-start fw-bold text-danger my-4">What’s New</h3>                                                                    
+    <h1 className="mb-10 text-start fw-bold my-2">Feature's Courses</h1>
+    </div>
+    </div>
     <div Container className='con' style={{ padding: '30px 0 0 30px', backgroundColor: 'white', border: '0.5px solid white' }}> 
     <div class="row">
 <div class="col-lg-4 col-md-6 d-flex">
